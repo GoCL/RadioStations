@@ -25,5 +25,6 @@
       "channel": "1003",
       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC"
     }
-  ]
+  ],
+  "version": "1.0"
 }
