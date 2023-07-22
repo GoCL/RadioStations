@@ -1,0 +1,24 @@
+{
+  "radios": [
+    {
+      "id": "933",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_SC?dist=radiosingapore"
+    },
+    {
+      "id": "95",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC_SC"
+    },
+    {
+      "id": "972",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac?dist=radiosingapore"
+    },
+    {
+      "id": "958",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=radiosingapore"
+    },
+    {
+      "id": "1003",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC"
+    }
+  ]
+}
