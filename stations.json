@@ -29,8 +29,14 @@
       "channel": 1003,
       "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/ufm-1003.png",
       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC"
+    },
+    {
+      "id": 5,
+      "channel": 987,
+      "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/987fm.png",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac?dist=radiosingapore"
     }
   ],
   "homepage": "https://radiosingapore.org",
-  "version": 1
+  "version": 2
 }
