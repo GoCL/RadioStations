@@ -1,0 +1,18 @@
+{
+  "websiteURL": {
+    "homepage": "https://radiosingapore.org",
+    "mediaType": [
+      "MP3",
+      "AAC"
+    ],
+    "mime": [
+      "audio/mpeg",
+      "audio/aac"
+    ],
+    "jsonFiles": [
+      "https://api.webrad.io/data/streams/66/class-95",
+      "https://api.webrad.io/data/streams/66/yes-933",
+      "https://api.webrad.io/data/streams/66/love-972"
+    ]
+  }
+}

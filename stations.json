@@ -1,0 +1,36 @@
+{
+  "stations": [
+    {
+      "id": 0,
+      "channel": 933,
+      "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/yes-933.png",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_SC?dist=radiosingapore"
+    },
+    {
+      "id": 1,
+      "channel": 95,
+      "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/class-95.png",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC_SC"
+    },
+    {
+      "id": 2,
+      "channel": 972,
+      "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/love-972.png",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac?dist=radiosingapore"
+    },
+    {
+      "id": 3,
+      "channel": 958,
+      "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/capital-958.png",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=radiosingapore"
+    },
+    {
+      "id": 4,
+      "channel": 1003,
+      "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/ufm-1003.png",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC"
+    }
+  ],
+  "homepage": "https://radiosingapore.org",
+  "version": 1
+}
