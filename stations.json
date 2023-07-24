@@ -35,8 +35,14 @@
       "channel": 987,
       "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/987fm.png",
       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac?dist=radiosingapore"
+    },
+    {
+      "id": 6,
+      "channel": 905,
+      "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/gold-90-5-fm.png",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac?dist=radiosingapore"
     }
   ],
   "homepage": "https://radiosingapore.org",
-  "version": 2
+  "version": 3
 }
