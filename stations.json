@@ -4,45 +4,45 @@
       "id": 0,
       "channel": 933,
       "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/yes-933.png",
-      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_SC?dist=radiosingapore"
+      "url": "https://23253.live.streamtheworld.com/YES933_SC?dist=radiosingapore"
     },
     {
       "id": 1,
       "channel": 95,
       "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/class-95.png",
-      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC_SC"
+      "url": "https://22903.live.streamtheworld.com/CLASS95AAC_SC"
     },
     {
       "id": 2,
       "channel": 972,
       "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/love-972.png",
-      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac?dist=radiosingapore"
+      "url": "https://22283.live.streamtheworld.com/LOVE972FMAAC.aac?dist=radiosingapore"
     },
     {
       "id": 3,
       "channel": 958,
       "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/capital-958.png",
-      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=radiosingapore"
+      "url": "https://22903.live.streamtheworld.com/CAPITAL958FMAAC.aac?dist=radiosingapore"
     },
     {
       "id": 4,
       "channel": 1003,
       "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/ufm-1003.png",
-      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC"
+      "url": "https://22243.live.streamtheworld.com/UFM_1003_SC"
     },
     {
       "id": 5,
       "channel": 987,
       "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/987fm.png",
-      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac?dist=radiosingapore"
+      "url": "https://22903.live.streamtheworld.com/987FMAAC.aac?dist=radiosingapore"
     },
     {
       "id": 6,
       "channel": 905,
       "image": "https://cdn.webrad.io/images/logos/radiosingapore-org/gold-90-5-fm.png",
-      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac?dist=radiosingapore"
+      "url": "https://14033.live.streamtheworld.com/GOLD905AAC.aac?dist=radiosingapore"
     }
   ],
   "homepage": "https://radiosingapore.org",
-  "version": 3
+  "version": 4
 }
